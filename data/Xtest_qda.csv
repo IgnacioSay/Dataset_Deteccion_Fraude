@@ -1,0 +1,2314 @@
+VehicleCategory,BasePolicy,Fault,Sex,PastNumberOfClaims,VehiclePrice
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Third Party,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,40000 to 59000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,less than 20000
+Sedan,All Perils,Third Party,Male,2 to 4,40000 to 59000
+Sedan,Collision,Policy Holder,Female,none,less than 20000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sedan,All Perils,Third Party,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Collision,Third Party,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,2 to 4,less than 20000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Utility,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Female,more than 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,none,less than 20000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Collision,Third Party,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,40000 to 59000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,40000 to 59000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,none,less than 20000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,40000 to 59000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,40000 to 59000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,less than 20000
+Sedan,Collision,Policy Holder,Male,2 to 4,less than 20000
+Sedan,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,40000 to 59000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Female,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,less than 20000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,more than 4,30000 to 39000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Female,1,30000 to 39000
+Sedan,Collision,Third Party,Male,none,less than 20000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,60000 to 69000
+Sport,Collision,Third Party,Female,1,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Collision,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,more than 4,40000 to 59000
+Sedan,Collision,Policy Holder,Male,none,less than 20000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Utility,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,40000 to 59000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,more than 69000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Female,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sedan,All Perils,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Policy Holder,Female,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,more than 69000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Female,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,40000 to 59000
+Sedan,All Perils,Policy Holder,Female,2 to 4,less than 20000
+Sedan,All Perils,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,40000 to 59000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Third Party,Male,more than 4,less than 20000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Collision,Third Party,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,2 to 4,less than 20000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Male,more than 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Utility,Liability,Policy Holder,Male,none,more than 69000
+Sport,Liability,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Female,2 to 4,less than 20000
+Sedan,Collision,Policy Holder,Female,more than 4,30000 to 39000
+Sport,Collision,Third Party,Female,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Female,none,less than 20000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,60000 to 69000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Third Party,Female,1,20000 to 29000
+Utility,All Perils,Policy Holder,Male,1,more than 69000
+Utility,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,less than 20000
+Sedan,All Perils,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Third Party,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,less than 20000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Third Party,Female,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,more than 69000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Female,2 to 4,less than 20000
+Sedan,All Perils,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,more than 4,20000 to 29000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sport,Liability,Third Party,Male,more than 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Collision,Third Party,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Third Party,Female,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,30000 to 39000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,less than 20000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Collision,Third Party,Male,1,more than 69000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,40000 to 59000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,more than 4,more than 69000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Third Party,Female,1,30000 to 39000
+Sport,Liability,Third Party,Male,more than 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sport,Collision,Third Party,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,40000 to 59000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,more than 4,40000 to 59000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sport,Liability,Third Party,Female,1,20000 to 29000
+Sport,Collision,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Third Party,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Third Party,Male,more than 4,40000 to 59000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Third Party,Female,1,more than 69000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Female,none,30000 to 39000
+Sport,Liability,Third Party,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Utility,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,40000 to 59000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,40000 to 59000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sport,Liability,Third Party,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,1,less than 20000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Female,1,30000 to 39000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sport,Liability,Third Party,Male,more than 4,40000 to 59000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,more than 69000
+Sedan,Collision,Third Party,Male,1,30000 to 39000
+Sport,Liability,Third Party,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sport,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Third Party,Female,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,Collision,Third Party,Female,1,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Female,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Utility,All Perils,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,1,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,none,less than 20000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Utility,Collision,Policy Holder,Male,none,40000 to 59000
+Sedan,All Perils,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Collision,Third Party,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Female,none,30000 to 39000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,Collision,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Collision,Third Party,Male,none,more than 69000
+Sedan,Collision,Third Party,Female,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Female,2 to 4,less than 20000
+Utility,All Perils,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Female,1,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sport,Collision,Third Party,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Female,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,40000 to 59000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,40000 to 59000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Female,none,less than 20000
+Sedan,All Perils,Third Party,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Third Party,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Third Party,Male,more than 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sedan,Collision,Third Party,Male,none,40000 to 59000
+Sedan,Collision,Policy Holder,Female,1,less than 20000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,40000 to 59000
+Sedan,All Perils,Third Party,Male,2 to 4,less than 20000
+Sedan,Collision,Third Party,Female,2 to 4,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,40000 to 59000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,40000 to 59000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Sedan,All Perils,Third Party,Female,none,30000 to 39000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sedan,Collision,Third Party,Female,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,none,30000 to 39000
+Sedan,Collision,Policy Holder,Female,none,less than 20000
+Sport,Liability,Third Party,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sedan,All Perils,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,none,60000 to 69000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Female,none,less than 20000
+Sedan,Collision,Third Party,Female,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sport,Liability,Third Party,Male,2 to 4,more than 69000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Female,1,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Third Party,Male,more than 4,less than 20000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,60000 to 69000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Collision,Third Party,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Female,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sport,Collision,Third Party,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sport,Liability,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,1,20000 to 29000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Female,1,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sedan,Collision,Policy Holder,Male,more than 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Third Party,Female,2 to 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,40000 to 59000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Third Party,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Third Party,Female,none,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,30000 to 39000
+Utility,All Perils,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,none,less than 20000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Collision,Policy Holder,Male,1,more than 69000
+Sport,Collision,Third Party,Male,1,more than 69000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Female,none,30000 to 39000
+Sport,Liability,Third Party,Female,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,60000 to 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,more than 69000
+Sedan,All Perils,Third Party,Female,none,less than 20000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,less than 20000
+Sport,Liability,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,less than 20000
+Sport,All Perils,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,more than 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,60000 to 69000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,more than 69000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sport,Collision,Third Party,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,less than 20000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Female,none,20000 to 29000
+Sport,Liability,Third Party,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,1,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,less than 20000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Utility,All Perils,Third Party,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sport,All Perils,Third Party,Male,more than 4,60000 to 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,30000 to 39000
+Sport,Liability,Third Party,Male,1,40000 to 59000
+Sedan,All Perils,Policy Holder,Female,1,more than 69000
+Sport,Liability,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,40000 to 59000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sport,Collision,Third Party,Male,2 to 4,more than 69000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,2 to 4,less than 20000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,less than 20000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,40000 to 59000
+Sedan,All Perils,Third Party,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,less than 20000
+Sport,Collision,Third Party,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sport,All Perils,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Third Party,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,none,less than 20000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,less than 20000
+Sedan,Collision,Third Party,Female,2 to 4,20000 to 29000
+Sport,Collision,Policy Holder,Female,none,more than 69000
+Sedan,All Perils,Policy Holder,Female,1,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,none,more than 69000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,less than 20000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,60000 to 69000
+Utility,Collision,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,40000 to 59000
+Sedan,Collision,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Third Party,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Female,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,40000 to 59000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,30000 to 39000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Third Party,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,less than 20000
+Utility,Liability,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sport,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,less than 20000
+Utility,All Perils,Policy Holder,Male,1,40000 to 59000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Collision,Third Party,Female,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,1,30000 to 39000
+Sedan,All Perils,Third Party,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Female,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,less than 20000
+Utility,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,40000 to 59000
+Sedan,Collision,Third Party,Female,2 to 4,40000 to 59000
+Utility,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Third Party,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,less than 20000
+Sedan,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Third Party,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Utility,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,40000 to 59000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Utility,Collision,Policy Holder,Male,more than 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,40000 to 59000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Female,2 to 4,more than 69000
+Utility,All Perils,Third Party,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,1,less than 20000
+Sedan,All Perils,Policy Holder,Male,1,40000 to 59000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sport,Liability,Policy Holder,Female,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,none,less than 20000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,less than 20000
+Sedan,Collision,Policy Holder,Male,1,40000 to 59000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Female,1,less than 20000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,40000 to 59000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,more than 4,less than 20000
+Sport,Collision,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Utility,All Perils,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,less than 20000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,1,less than 20000
+Sedan,Collision,Third Party,Female,1,30000 to 39000
+Sport,Liability,Third Party,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Collision,Third Party,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,less than 20000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,less than 20000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,40000 to 59000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sport,Collision,Third Party,Male,2 to 4,more than 69000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,All Perils,Third Party,Female,none,less than 20000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Utility,All Perils,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sedan,Collision,Policy Holder,Female,1,less than 20000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Female,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Utility,All Perils,Policy Holder,Male,2 to 4,40000 to 59000
+Sedan,All Perils,Policy Holder,Male,1,more than 69000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Female,2 to 4,less than 20000
+Sedan,Collision,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Third Party,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Female,1,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Third Party,Male,1,more than 69000
+Sport,Liability,Third Party,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Third Party,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,none,40000 to 59000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Collision,Policy Holder,Female,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,60000 to 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,40000 to 59000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,60000 to 69000
+Sport,Liability,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Third Party,Male,none,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,60000 to 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Female,2 to 4,less than 20000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,more than 69000
+Sedan,All Perils,Third Party,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,more than 69000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,2 to 4,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,40000 to 59000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Female,1,less than 20000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Third Party,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Third Party,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,more than 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,1,40000 to 59000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,more than 69000
+Sport,Collision,Third Party,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Sport,Liability,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sedan,All Perils,Third Party,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sedan,All Perils,Policy Holder,Female,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Utility,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,more than 69000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,40000 to 59000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Collision,Third Party,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,2 to 4,more than 69000
+Sport,Liability,Third Party,Female,more than 4,40000 to 59000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,40000 to 59000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Female,more than 4,more than 69000
+Utility,Liability,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Utility,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sedan,All Perils,Third Party,Male,1,less than 20000
+Sport,Liability,Policy Holder,Female,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Collision,Third Party,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Collision,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Collision,Third Party,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Female,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Collision,Third Party,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Female,none,30000 to 39000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Utility,All Perils,Policy Holder,Male,1,40000 to 59000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,60000 to 69000
+Sport,Liability,Third Party,Male,1,40000 to 59000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Female,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,Collision,Policy Holder,Male,1,40000 to 59000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,less than 20000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Utility,All Perils,Policy Holder,Male,more than 4,40000 to 59000
+Sport,Collision,Third Party,Male,none,more than 69000
+Utility,All Perils,Third Party,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Female,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Female,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,more than 69000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,40000 to 59000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,less than 20000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,40000 to 59000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Female,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,40000 to 59000
+Sport,Liability,Third Party,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sport,Liability,Third Party,Male,2 to 4,60000 to 69000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Female,none,less than 20000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,1,less than 20000
+Sedan,Collision,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sport,Liability,Third Party,Male,1,30000 to 39000
+Sport,Liability,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,less than 20000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Policy Holder,Male,1,less than 20000
+Sport,Liability,Policy Holder,Female,more than 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Collision,Third Party,Male,1,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Male,2 to 4,more than 69000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,40000 to 59000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,less than 20000
+Sedan,Collision,Third Party,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,less than 20000
+Sport,Liability,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Male,2 to 4,40000 to 59000
+Sport,Liability,Policy Holder,Male,more than 4,40000 to 59000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,1,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Collision,Third Party,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Third Party,Male,none,30000 to 39000
+Utility,All Perils,Third Party,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Female,2 to 4,less than 20000
+Sport,Liability,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,40000 to 59000
+Sedan,All Perils,Third Party,Male,2 to 4,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,Collision,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,less than 20000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,40000 to 59000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Female,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Utility,Liability,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Female,none,less than 20000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Policy Holder,Male,1,40000 to 59000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Utility,Liability,Policy Holder,Male,more than 4,40000 to 59000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Female,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Female,none,more than 69000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,none,less than 20000
+Sedan,All Perils,Policy Holder,Female,2 to 4,less than 20000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,less than 20000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,none,less than 20000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Third Party,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Female,none,20000 to 29000
+Sport,Liability,Third Party,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Female,2 to 4,40000 to 59000
+Sedan,Collision,Policy Holder,Male,more than 4,40000 to 59000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Female,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Female,more than 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Female,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sport,Liability,Third Party,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Female,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Policy Holder,Female,2 to 4,20000 to 29000
+Utility,All Perils,Policy Holder,Male,more than 4,more than 69000
+Sport,Liability,Third Party,Male,1,30000 to 39000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,1,less than 20000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,none,more than 69000
+Sedan,All Perils,Third Party,Female,more than 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,less than 20000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,All Perils,Third Party,Female,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sport,Liability,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,none,more than 69000
+Sport,Liability,Third Party,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,All Perils,Policy Holder,Female,more than 4,30000 to 39000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,2 to 4,less than 20000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,less than 20000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Utility,All Perils,Policy Holder,Male,2 to 4,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,none,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,2 to 4,less than 20000
+Sedan,Collision,Policy Holder,Female,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,less than 20000
+Sport,Liability,Third Party,Male,1,20000 to 29000
+Sport,Liability,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,30000 to 39000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,30000 to 39000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,more than 4,more than 69000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,1,40000 to 59000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sport,Liability,Policy Holder,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Third Party,Female,none,20000 to 29000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sport,Liability,Third Party,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Male,none,40000 to 59000
+Sport,Liability,Policy Holder,Female,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Male,1,more than 69000
+Utility,All Perils,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Third Party,Male,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,less than 20000
+Sedan,Collision,Policy Holder,Female,none,20000 to 29000
+Sedan,All Perils,Third Party,Female,1,20000 to 29000
+Sedan,All Perils,Third Party,Male,2 to 4,30000 to 39000
+Sport,Liability,Policy Holder,Male,1,20000 to 29000
+Sedan,Collision,Policy Holder,Female,none,40000 to 59000
+Sport,Liability,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,Collision,Third Party,Male,none,20000 to 29000
+Sedan,All Perils,Third Party,Male,1,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,All Perils,Policy Holder,Male,none,less than 20000
+Sedan,All Perils,Third Party,Male,2 to 4,less than 20000
+Sedan,All Perils,Third Party,Male,none,20000 to 29000
+Sedan,Collision,Third Party,Male,1,more than 69000
+Sport,Liability,Policy Holder,Male,1,30000 to 39000
+Sedan,All Perils,Policy Holder,Male,1,20000 to 29000
+Sport,Liability,Policy Holder,Male,more than 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,more than 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,1,more than 69000
+Sedan,Collision,Policy Holder,Male,none,20000 to 29000
+Sport,Liability,Policy Holder,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,20000 to 29000
+Sport,Collision,Policy Holder,Male,none,more than 69000
+Sedan,Collision,Policy Holder,Male,more than 4,20000 to 29000
+Sedan,All Perils,Third Party,Female,none,20000 to 29000
+Sport,Liability,Third Party,Male,2 to 4,20000 to 29000
+Sedan,Collision,Policy Holder,Male,2 to 4,more than 69000
+Sport,Liability,Policy Holder,Male,2 to 4,30000 to 39000
+Sedan,All Perils,Third Party,Male,1,less than 20000
+Sport,Liability,Third Party,Female,2 to 4,20000 to 29000
+Sedan,All Perils,Policy Holder,Male,none,20000 to 29000
